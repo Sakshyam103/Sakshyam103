@@ -31,6 +31,7 @@
 <br>
 <div align="center">
 <img width = 390 src="https://streak-stats.demolab.com/?user=Sakshyam103&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ <img width = 390 src="https://github-readme-stats.vercel.app/api?username=Sakshyam103&theme=algolia&show_icons=true&i=github" alt=" stats"/> 
 </div>
  
 
