@@ -22,13 +22,13 @@
   <br/>
   <div align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=node.js,github,python,javascript,mongodb,c,java,racket,prolog,haskell"/><br>
+  <img src="https://skillicons.dev/icons?i=node.js,github,python,javascript,mongodb,c,java,haskell"/><br>
   <img src = "https://skillicons.dev/icons?i=react,vite,html,css,vscode,git,springboot"/>
   </a>
   </div>
 
 <h2 align="center">
-<<br>
+<br>
 <div align="center">
 <img width = 390 src="https://streak-stats.demolab.com/?user=Sakshyam103&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img width = 390 src="https://github-readme-stats-Sakshyam103.vercel.app/api?username=Sakshyam103&count_private=true&show_icons=true&theme=react&tank_icon=github&border_radius=10" alt="readme stats"/>
