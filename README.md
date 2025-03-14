@@ -5,7 +5,7 @@
       <img src = "https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=white&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Sakshyam+Sarki!;"/>
     </a>
   </h1>
-  <h3 align="center"> A Full Stack Developer </h3>
+  <h3 align="center"> Software Engineer | Machine Learning Enthusiast </h3>
   <br/>
   <div align="center">
     <a href="mailto:nepalisakshyam19@gmail.com">
@@ -15,26 +15,51 @@
       <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
     </a>
     <a href="https://github.com/Sakshyam103" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todois&logoColor=white" target="_blank"/>
+      <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todois&logoColor=white" target="_blank"/>
     </a>
   </div>
-  <h2 align="center"> Languages-Frameworks-tools </h2>
+  <h2 align="center"> Languages-Frameworks-Tools </h2>
   <br/>
   <div align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=node.js,github,python,javascript,mongodb,c,java,haskell"/><br>
-  <img src = "https://skillicons.dev/icons?i=react,vite,html,css,vscode,git,springboot"/>
+  <h3 align="left">Languages:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,py,scala,ocaml,clojure" />
+  </a>
+</p>
+
+<h3 align="left">Web Technologies:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,vercel,react,angular,tailwind" />
+  </a>
+</p>
+
+<h3 align="left">Database:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb" />
+  </a>
+</p>
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,kubernetes,nginx,postman,tensorflow,pytorch,git,idea,linux,bash,figma," />
+  </a>
+</p>
   </a>
   </div>
 
 <h2 align="center">
 <br>
-<div align="center">
+<!-- <div align="center">
 <img width = 390 src="https://streak-stats.demolab.com/?user=Sakshyam103&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  <img width = 390 src="https://github-readme-stats.vercel.app/api?username=Sakshyam103&theme=algolia&show_icons=true&i=github&rank_icon=github" alt="github stats"/> 
   <br>
   <img width = 320 src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshyam103&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="top langs"/>
-</div>
+</div> -->
  
 
 <!--
